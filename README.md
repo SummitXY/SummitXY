@@ -44,6 +44,11 @@
 
 
 
+<p aligh="center">
+<h2 aligh="left"> Let's Watch TV!</h2>
+<img src="https://github.com/SummitXY/SummitXY/blob/master/10%E6%9C%8829%E6%97%A5sakula.gif">
+
+
 <!--
 **SummitXY/SummitXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
